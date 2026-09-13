@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J5zMS4kQvtI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mbeat\\Desktop\\jogo_poo\\jogo_poo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbeat\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
